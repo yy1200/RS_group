@@ -1,0 +1,382 @@
+===========Test===============
+Testing 9 user tuples
+Testing SR@5: nan
+Testing SR@10: nan
+Testing SR@15: nan
+Testing Avg@T: nan
+Testing hDCG: nan
+Testing time: 30.215298414230347
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 9 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.08199999999999999
+Testing SR@10: 0.14600000000000002
+Testing SR@15: 0.21999999999999997
+Testing Avg@T: 13.368
+Testing hDCG: 0.08711158651238414
+Testing time: 1274.8749690055847
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.0
+Testing SR@10: 0.008
+Testing SR@15: 0.008
+Testing Avg@T: 14.937999999999999
+Testing hDCG: 0.002569814485076639
+Testing time: 676.1143810749054
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.0
+Testing SR@10: 0.006
+Testing SR@15: 0.008
+Testing Avg@T: 14.959999999999999
+Testing hDCG: 0.0022794336518354064
+Testing time: 647.8379962444305
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.0
+Testing SR@10: 0.006
+Testing SR@15: 0.008
+Testing Avg@T: 14.959999999999999
+Testing hDCG: 0.002278671488655184
+Testing time: 657.2314457893372
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.006
+Testing SR@10: 0.012
+Testing SR@15: 0.013999999999999999
+Testing Avg@T: 14.874
+Testing hDCG: 0.005387342046158255
+Testing time: 707.5976312160492
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.002
+Testing SR@10: 0.002
+Testing SR@15: 0.002
+Testing Avg@T: 14.972
+Testing hDCG: 0.002
+Testing NDCG: 0.020224879013563103
+Testing Precision: 0.0
+Testing Recall: 0.0
+Testing time: 1274.9297578334808
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.002
+Testing SR@10: 0.002
+Testing SR@15: 0.002
+Testing Avg@T: 14.972
+Testing hDCG: 0.002
+Testing NDCG: 0.020224879013563103
+Testing Precision: 0.0
+Testing Recall: 0.0
+Testing time: 1518.8324875831604
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.0
+Testing SR@10: 0.0
+Testing SR@15: 0.0
+Testing Avg@T: 15.0
+Testing hDCG: 0.0
+Testing NDCG: 0.0
+Testing Precision: 0.004722222222222222
+Testing Recall: 0.02361111111111111
+Testing time: 1450.0917632579803
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.0
+Testing SR@10: 0.0
+Testing SR@15: 0.0
+Testing Avg@T: 15.0
+Testing hDCG: 0.0
+Testing NDCG: 0.0
+Testing Precision: 0.0
+Testing Recall: 0.0
+Testing time: 1036.299663066864
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 99 user tuples
+Testing SR@5: 0.0
+Testing SR@10: 0.0
+Testing SR@15: 0.0
+Testing Avg@T: 15.0
+Testing hDCG: 0.0
+Testing NDCG: 0.0
+Testing Precision: 0.0
+Testing Recall: 0.0
+Testing time: 208.3818552494049
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 99 user tuples
+================================
+===========Test===============
+Testing 99 user tuples
+Testing SR@5: 0.0
+Testing SR@10: 0.0
+Testing SR@15: 0.0
+Testing Avg@T: 15.0
+Testing hDCG: 0.0
+Testing NDCG: 0.0
+Testing Precision: 0.0
+Testing Recall: 0.0
+Testing time: 238.5788233280182
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 99 user tuples
+================================
+===========Test===============
+Testing 9 user tuples
+Testing SR@5: 0.0
+Testing SR@10: 0.0
+Testing SR@15: 0.0
+Testing Avg@T: 15.0
+Testing hDCG: 0.0
+Testing NDCG: 0.0
+Testing Precision: 0.0
+Testing Recall: 0.0
+Testing time: 20.3652081489563
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 9 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.244
+Testing SR@10: 0.29200000000000004
+Testing SR@15: 0.34
+Testing Avg@T: 11.334
+Testing hDCG: 0.21169166077758592
+Testing NDCG: 0.24394771655326436
+Testing Precision: 12.786349206349204
+Testing Recall: 16.669696969696968
+Testing time: 790.0598592758179
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.21400000000000002
+Testing SR@10: 0.266
+Testing SR@15: 0.304
+Testing Avg@T: 11.675999999999998
+Testing hDCG: 0.19549085436550692
+Testing NDCG: 0.21467216141178785
+Testing Precision: 10.244841269841269
+Testing Recall: 14.89969696969697
+Testing time: 780.579674243927
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.254
+Testing SR@10: 0.306
+Testing SR@15: 0.342
+Testing Avg@T: 11.144
+Testing hDCG: 0.21943387299667516
+Testing NDCG: 0.24375426233888936
+Testing Precision: 0.11772777777777774
+Testing Recall: 0.16516666666666666
+Testing time: 758.4449391365051
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.462
+Testing SR@10: 0.53
+Testing SR@15: 0.554
+Testing Avg@T: 8.389999999999999
+Testing hDCG: 0.35511257227407944
+Testing NDCG: 0.4587386417519322
+Testing Precision: 0.12947460317460308
+Testing Recall: 0.2802568181818182
+Testing time: 858.9697444438934
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.21799999999999997
+Testing SR@10: 0.238
+Testing SR@15: 0.25
+Testing Avg@T: 11.886
+Testing hDCG: 0.18116228517946828
+Testing NDCG: 0.20052005945378165
+Testing Precision: 0.12346190476190474
+Testing Recall: 0.12134848484848484
+Testing time: 843.1579530239105
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.014000000000000002
+Testing SR@10: 0.036
+Testing SR@15: 0.05
+Testing Avg@T: 14.622
+Testing hDCG: 0.01924600247039295
+Testing NDCG: 0.023153665235630276
+Testing Precision: 0.005
+Testing Recall: 0.024
+Testing time: 2001.4410388469696
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.22000000000000003
+Testing SR@10: 0.28200000000000003
+Testing SR@15: 0.308
+Testing Avg@T: 11.608
+Testing hDCG: 0.19290606056363566
+Testing NDCG: 0.21204321008452545
+Testing Precision: 0.09539920634920633
+Testing Recall: 0.15133333333333335
+Testing time: 771.0460646152496
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.202
+Testing SR@10: 0.236
+Testing SR@15: 0.266
+Testing Avg@T: 11.919999999999998
+Testing hDCG: 0.18745316093232725
+Testing NDCG: 0.21148269405683603
+Testing Precision: 0.13164999999999996
+Testing Recall: 0.1281401515151515
+Testing time: 910.0230407714844
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.082
+Testing SR@10: 0.16800000000000004
+Testing SR@15: 0.24000000000000005
+Testing Avg@T: 13.252
+Testing hDCG: 0.09072563720095263
+Testing NDCG: 0.16997653178769428
+Testing Precision: 0.07186111111111113
+Testing Recall: 0.004326128352297804
+Testing time: 1070.5875523090363
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.057999999999999996
+Testing SR@10: 0.12
+Testing SR@15: 0.17200000000000001
+Testing Avg@T: 13.697999999999999
+Testing hDCG: 0.07174217108042286
+Testing NDCG: 0.1559103288048108
+Testing Precision: 0.0784809523809524
+Testing Recall: 0.00652639497341005
+Testing time: 1540.6439144611359
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.06799999999999999
+Testing SR@10: 0.11000000000000001
+Testing SR@15: 0.158
+Testing Avg@T: 13.744
+Testing hDCG: 0.06359253698645582
+Testing NDCG: 0.10678999394307834
+Testing Precision: 0.0531
+Testing Recall: 0.0022872088812146306
+Testing time: 1085.9518978595734
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
+===========Test===============
+Testing 499 user tuples
+Testing SR@5: 0.10200000000000001
+Testing SR@10: 0.162
+Testing SR@15: 0.21000000000000002
+Testing Avg@T: 13.2
+Testing hDCG: 0.08699209402260419
+Testing NDCG: 0.14750007780586233
+Testing Precision: 0.05084047619047619
+Testing Recall: 0.004294176007085639
+Testing time: 2587.250762939453
+================================
+Training epocch:7
+===========Test Turn===============
+Testing 499 user tuples
+================================
